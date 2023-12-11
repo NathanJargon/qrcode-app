@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # qrcodeapp
 
 A new Flutter project.
@@ -18,4 +17,3 @@ samples, guidance on mobile development, and a full API reference.
 =======
 # qrcode-app
 A flutter qr check-in/out app
->>>>>>> 9bf65a74dc10b6eaf55ad06930b57ea1b9f5a96a
